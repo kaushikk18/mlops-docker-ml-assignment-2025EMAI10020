@@ -1,5 +1,5 @@
-Name: Jeevamutharasi S
-Roll Number: 2025EMAI10020
-Name of the Course: DSC524 Designing MIOps for Enterprises
-Lab: ML Model Containerization using Docker
-Date: 01/03/2026
+- Name: Jeevamutharasi S
+- Roll Number: 2025EMAI10020
+- Name of the Course: DSC524 Designing MIOps for Enterprises
+- Lab: ML Model Containerization using Docker
+- Date: 01/03/2026
